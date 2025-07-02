@@ -12,8 +12,7 @@ This SOP outlines the steps to provision a virtual machine in AWS, specifically 
 
 **1. Access the AWS Console** [0:00](https://loom.com/share/a82c8ed007724844837d7b25d2a9a538?t=0)
 
-![generated-image-at-00:00:00](https://loom.com/i/c650ac59adf04ed8bd290291e67ffc16?workflows_screenshot=true)
-
+![image](https://github.com/franklopez7554/Instance-Provisioning/blob/main/Screenshot%202025-07-02%20055246.png)
 - Navigate to the AWS console homepage.
 - Click on the EC2 service.
 
@@ -21,15 +20,14 @@ This SOP outlines the steps to provision a virtual machine in AWS, specifically 
 
 **2. Launch a New Instance** [0:09](https://loom.com/share/a82c8ed007724844837d7b25d2a9a538?t=9)
 
-![generated-image-at-00:00:09](https://loom.com/i/8965ede80dc844a6a48548d4fd75e9ca?workflows_screenshot=true)
-
+![image](https://github.com/franklopez7554/Instance-Provisioning/blob/main/Screenshot%202025-07-02%20055259.png)
 - On the EC2 dashboard, click on 'Launch Instance'.
 
  
 
 **3. Name the Instance** [0:22](https://loom.com/share/a82c8ed007724844837d7b25d2a9a538?t=22)
 
-![generated-image-at-00:00:22](https://loom.com/i/263962617c6545d3b3d33e947740686a?workflows_screenshot=true)
+![image](https://github.com/franklopez7554/Instance-Provisioning/blob/main/Screenshot%202025-07-02%20055318.png)
 
 - In the instance name field, enter 'Windows' for practice purposes.
 
@@ -37,24 +35,21 @@ This SOP outlines the steps to provision a virtual machine in AWS, specifically 
 
 **4. Select Key Pair** [0:32](https://loom.com/share/a82c8ed007724844837d7b25d2a9a538?t=32)
 
-![generated-image-at-00:00:32](https://loom.com/i/586a27fecfdf478f98ef9c802a0ff6d1?workflows_screenshot=true)
-
+![image](https://github.com/franklopez7554/Instance-Provisioning/blob/main/Screenshot%202025-07-02%20055343.png)
 - Choose the key pair named 'Windows test' that you have already created.
 
  
 
 **5. Choose Instance Type** [0:48](https://loom.com/share/a82c8ed007724844837d7b25d2a9a538?t=48)
 
-![generated-image-at-00:00:48](https://loom.com/i/5fa32d0be80c4d92854315ecf9ef8b80?workflows_screenshot=true)
-
+![image](https://github.com/franklopez7554/Instance-Provisioning/blob/main/Screenshot%202025-07-02%20055357.png)
 - Select an instance type with 4 vCPUs and 16 GB of memory to ensure optimal performance.
 
  
 
 **6. Launch the Instance** [1:01](https://loom.com/share/a82c8ed007724844837d7b25d2a9a538?t=61)
 
-![generated-image-at-00:01:01](https://loom.com/i/05f7f0dad82d4f76878297863de47615?workflows_screenshot=true)
-
+![image](https://github.com/franklopez7554/Instance-Provisioning/blob/main/Screenshot%202025-07-02%20055412.png)
 - Review your selections and click on 'Launch Instance'.
 - Wait for the instance to initialize and check the status.
 
