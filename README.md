@@ -1,5 +1,7 @@
 ## Provisioning a Virtual Machine in AWS for Active Directory
+### Link to Loom
 
+<https://loom.com/share/a82c8ed007724844837d7b25d2a9a538> # Instance-Provisioning
 ### Objective
 
 This SOP outlines the steps to provision a virtual machine in AWS, specifically for use with Active Directory.
@@ -66,6 +68,4 @@ This SOP outlines the steps to provision a virtual machine in AWS, specifically 
 - Familiarize yourself with the AWS console layout to navigate quickly.
 - Use predefined templates for instance configurations to save time on future setups.
 
-### Link to Loom
 
-<https://loom.com/share/a82c8ed007724844837d7b25d2a9a538># Instance-Provisioning
